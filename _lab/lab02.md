@@ -56,23 +56,30 @@ In most cases, pytest installation is identical across macOS and Windows if Pyth
 1. Check your Python and pip versions:
 
     ```python --version```
+   
     ```pip --version```
-    
+
+
     If you're using Python 3 and those commands don't work, try:
 
     ```python3 --version```
+   
     ```pip3 --version```
     
-2.  Install pytest:
+3.  Install pytest:
 
    ```pip install pytest```
+   
    Or, if you're using Python 3:
+   
    ```pip3 install pytest```
 
 3. (Optional) Upgrade pip if needed:
 
    ```pip install --upgrade pip```
+   
    OR
+   
    ```pip3 install --upgrade pip```
 
 
